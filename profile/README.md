@@ -1,6 +1,6 @@
 # Проект для хранения, поиска, использования и скачивания модов со Steam
 
-### [Discord Bot](https://discord.com/api/oauth2/authorize?client_id=1137841106852253818&permissions=2148063296&scope=bot%20applications.commands), [Telegram Bot](https://t.me/get_from_steam_bot), [API](https://api.openworkshop.su), [Website](https://openworkshop.su)
+### [Discord Bot](https://discord.com/api/oauth2/authorize?client_id=1137841106852253818&permissions=2148063296&scope=bot%20applications.commands), [Telegram Bot](https://t.me/get_from_steam_bot), [API](https://api.openworkshop.su), [Website](https://openworkshop.su), [Browser Extension](https://github.com/Open-Workshop/open-workshop-browser-extension)
 
 
 # Доступные сервера:
@@ -10,6 +10,6 @@
 # Дорожная карта:
 1. Backend сервер - закончен ✅
 2. Telegram бот - закончен ✅
-3. Плагин для браузера - в разработке 🟨
+3. Плагин для браузера - закончен ✅
 4. Discord бот - закончен ✅
 5. Website - одностраничный сайт, вероятное расширение 🤔
